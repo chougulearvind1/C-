@@ -1,0 +1,14 @@
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\bin\Debug\net9.0\Demovscode.exe
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\bin\Debug\net9.0\Demovscode.deps.json
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\bin\Debug\net9.0\Demovscode.runtimeconfig.json
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\bin\Debug\net9.0\Demovscode.dll
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\bin\Debug\net9.0\Demovscode.pdb
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\Demovscode.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\Demovscode.AssemblyInfoInputs.cache
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\Demovscode.AssemblyInfo.cs
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\Demovscode.csproj.CoreCompileInputs.cache
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\Demovscode.dll
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\refint\Demovscode.dll
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\Demovscode.pdb
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\Demovscode.genruntimeconfig.cache
+c:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Demovscode\obj\Debug\net9.0\ref\Demovscode.dll
