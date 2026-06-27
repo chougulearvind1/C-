@@ -13,7 +13,7 @@ class Program
        {
         Console.WriteLine(day);
        }
-       int monthnumber = (int)months.November;
+       int monthnumber = (int)Months.November;
        Console.WriteLine(monthnumber);
     }
 }
@@ -27,7 +27,7 @@ public enum DaysOfWeek
     Friday,
     Saturday
 }
-public enum months
+public enum Months
 {
     January=1,
     February,
