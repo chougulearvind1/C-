@@ -1,0 +1,14 @@
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\bin\Debug\net9.0\Matrix.exe
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\bin\Debug\net9.0\Matrix.deps.json
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\bin\Debug\net9.0\Matrix.runtimeconfig.json
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\bin\Debug\net9.0\Matrix.dll
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\bin\Debug\net9.0\Matrix.pdb
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\Matrix.AssemblyInfo.cs
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\Matrix.dll
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\refint\Matrix.dll
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\Matrix.pdb
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\Matrix.genruntimeconfig.cache
+C:\Users\ICMS\OneDrive\Desktop\ABC\Demovscode\Matrix\obj\Debug\net9.0\ref\Matrix.dll
