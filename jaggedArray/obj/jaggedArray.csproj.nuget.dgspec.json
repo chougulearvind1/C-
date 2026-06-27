@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\jaggedArray.csproj": {}
+    "c:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\jaggedArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\jaggedArray.csproj": {
+    "c:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\jaggedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\jaggedArray.csproj",
+        "projectUniqueName": "c:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\jaggedArray.csproj",
         "projectName": "jaggedArray",
-        "projectPath": "C:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\jaggedArray.csproj",
+        "projectPath": "c:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\jaggedArray.csproj",
         "packagesPath": "C:\\Users\\ICMS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\obj\\",
+        "outputPath": "c:\\Users\\ICMS\\OneDrive\\Desktop\\ABC\\Demovscode\\jaggedArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
